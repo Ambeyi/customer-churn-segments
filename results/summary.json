@@ -1,0 +1,10 @@
+{
+  "customers": 2520,
+  "churned": 397,
+  "churn_rate": 0.15753968253968254,
+  "missing_segment_values": {
+    "Complains": 22,
+    "Tariff_Plan": 29,
+    "Charge_Amount": 258
+  }
+}

@@ -1,0 +1,4 @@
+Verified 2026-11-01
+Six unit tests passed. Fictional demo completed.
+Independent standard-library CSV grouping matched every segment count and churn rate.
+All Wilson intervals matched scipy.stats.binomtest(...).proportion_ci(method="wilson").
